@@ -13,3 +13,5 @@ https://juejin.cn/post/6844903824935632909
 # redis 题目  
 https://juejin.cn/post/7004681100228296717  
 
+https://www.iamshuaidi.com/1864.html  
+
