@@ -9,3 +9,7 @@ https://juejin.cn/post/6844903941646319623
 mysql  
 https://www.cxyxiaowu.com/16302.html  
 https://juejin.cn/post/6844903824935632909  
+
+# redis 题目  
+https://juejin.cn/post/7004681100228296717  
+
